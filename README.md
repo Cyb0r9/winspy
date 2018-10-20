@@ -7,10 +7,6 @@
 <h4 align="center">
 **winspy : Windows Reverse Shell Backdoor Creator With ip poisener**
  </h4>
-# Screenshot
-
-![winspy](https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/wins.png)
-
 # Installation
 ```
 sudo apt-get install git
@@ -21,6 +17,10 @@ chmod +x setup.sh
 chmod +x winspy.sh
 ./winspy.sh
 ```
+# screenshot
+
+![winspy](https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/wins.png)
+
 # Tested on :
 * BackBox Linux
 * Kali linux
