@@ -5,8 +5,6 @@
 ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
 
 **winspy : Windows Reverse Shell Backdoor Creator With ip poisener**
-Picture
-
 # Installation
 ```
 sudo apt-get install git
