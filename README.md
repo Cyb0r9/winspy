@@ -1,9 +1,9 @@
 # winspy
 <b> winspy : Windows Reverse Shell Backdoor Creator With ip poisener </b>
-[!Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
-[!shell](https://img.shields.io/badge/Shell-2.1-green.svg)
-[!GitHub version](https://img.shields.io/badge/Version-1.0-orange.svg)
-[!Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
+[Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
+[shell](https://img.shields.io/badge/Shell-2.1-green.svg)
+[GitHub version](https://img.shields.io/badge/Version-1.0-orange.svg)
+[Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
 Picture
 # Installation
 ```
