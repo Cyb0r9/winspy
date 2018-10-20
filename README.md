@@ -3,11 +3,12 @@
 ![shell](https://img.shields.io/badge/Shell-2.1-green.svg)
 ![GitHub version](https://img.shields.io/badge/winspy-1.0-orange.svg)
 ![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)
-<p align="center"><img src="https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/winspy.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/win.png"></p>
 <h4 align="center">
 **winspy : Windows Reverse Shell Backdoor Creator With ip poisener**
  </h4>
-
+# Screenshot
+![img](https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/wins.png)
 # Installation
 ```
 sudo apt-get install git
