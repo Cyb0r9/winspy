@@ -8,7 +8,9 @@
 **winspy : Windows Reverse Shell Backdoor Creator With ip poisener**
  </h4>
 # Screenshot
-![img](https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/wins.png)
+
+![winspy](https://raw.githubusercontent.com/TunisianEagles/winspy/master/screenshot/wins.png)
+
 # Installation
 ```
 sudo apt-get install git
