@@ -19,6 +19,20 @@ if [[ $EUID -ne 0 ]]; then
 fi
 echo -e "$green update $yellow[✔]$nc"
 sudo apt-get update
+#Xterm
+if hash xterm 2>/dev/null; then
+	echo -e "$green xterm $yellow[✔]$nc"
+else
+	echo -e "$green xterm $yellow[✘]$nc"
+sudo apt-get install xterm
+fi
+#Whiptail
+if hash whiptail 2>/dev/null; then
+	echo -e "$green whiptail $yellow[✔]$nc"
+else
+	echo -e "$green whiptail $yellow[✘]$nc"
+sudo apt-get install whiptail
+fi
 #Apache2
 if hash apache2 2>/dev/null; then
 	echo -e "$green Apache2 $yellow[✔]$nc"
