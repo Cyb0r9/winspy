@@ -47,7 +47,14 @@ else
         echo -e "$green Metasploit-Framework $yellow[✘]$nc"
 curl https://raw.githubusercontent.com/rapid7/metasploit-omnibus/master/config/templates/metasploit-framework-wrappers/msfupdate.erb > metasploit_installer && chmod 755 metasploit_installer && ./metasploit_installer
 fi
-#curl
+#grep
+if hash grep 2>/dev/null; then
+        echo -e "$green grep $yellow[✔]$nc"
+else
+        echo -e "$grenn grep $yellow[✘]$nc"
+sudo apt-get install grep
+fi
+#grep
 if hash curl 2>/dev/null; then
         echo -e "$green curl $yellow[✔]$nc"
 else
