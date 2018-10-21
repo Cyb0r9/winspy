@@ -12,7 +12,6 @@ winspy : Windows Reverse Shell Backdoor Creator With ip poisener
 * 1 - metasploit-framework
 * 2 - xterm
 * 3 - apache2
-* 4 - whiptail
 # Installation
 ```
 sudo apt-get install git
