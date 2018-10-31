@@ -1,4 +1,4 @@
-# <center> WinSpy </center>
+# WinSpy
 ![open source](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 ![shell](https://img.shields.io/badge/Shell-2.1-green.svg)
 ![GitHub version](https://img.shields.io/badge/winspy-1.0-orange.svg)
